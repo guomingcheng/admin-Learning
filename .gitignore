@@ -1,0 +1,18 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/create/cake/cake-interface-6a4b7afbb48d1f427adb97dbdeebebdaa439512d/node_modules
+/create/cake/cake-interface-1276a42670a63e25bccc1d592240ccddbfca6da0/node_modules
+/create/cake/cake-sdk/node_modules
+/create/cake/cake-interface/node_modules
+/create/cake/cake-contracts/node_modules
+
+/create/uni/uni-interface-b8c383c20e1a9d2cf29d8becce3e31b69219f1f8/node_modules
+/create/uni/uni-sdk/node_modules
+/interactive/*/node_modules
+
+/open/node_modules
+/node_modules
+/.pnp
+.pnp.js
+
